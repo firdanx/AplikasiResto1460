@@ -1,0 +1,79 @@
+D:\SEMESTER 4\PERANCANGAN BASIS DATA\Praktikum Modul 4\Visual Studio\AplikasiResto1460\AplikasiResto1460\obj\Debug\net6.0-windows\AplikasiResto1460.vbproj.AssemblyReference.cache
+D:\SEMESTER 4\PERANCANGAN BASIS DATA\Praktikum Modul 4\Visual Studio\AplikasiResto1460\AplikasiResto1460\obj\Debug\net6.0-windows\AplikasiResto1460.Cari.resources
+D:\SEMESTER 4\PERANCANGAN BASIS DATA\Praktikum Modul 4\Visual Studio\AplikasiResto1460\AplikasiResto1460\obj\Debug\net6.0-windows\AplikasiResto1460.Kasir.resources
+D:\SEMESTER 4\PERANCANGAN BASIS DATA\Praktikum Modul 4\Visual Studio\AplikasiResto1460\AplikasiResto1460\obj\Debug\net6.0-windows\AplikasiResto1460.Kategori.resources
+D:\SEMESTER 4\PERANCANGAN BASIS DATA\Praktikum Modul 4\Visual Studio\AplikasiResto1460\AplikasiResto1460\obj\Debug\net6.0-windows\AplikasiResto1460.Login.resources
+D:\SEMESTER 4\PERANCANGAN BASIS DATA\Praktikum Modul 4\Visual Studio\AplikasiResto1460\AplikasiResto1460\obj\Debug\net6.0-windows\AplikasiResto1460.Menu.resources
+D:\SEMESTER 4\PERANCANGAN BASIS DATA\Praktikum Modul 4\Visual Studio\AplikasiResto1460\AplikasiResto1460\obj\Debug\net6.0-windows\AplikasiResto1460.Resources.resources
+D:\SEMESTER 4\PERANCANGAN BASIS DATA\Praktikum Modul 4\Visual Studio\AplikasiResto1460\AplikasiResto1460\obj\Debug\net6.0-windows\AplikasiResto1460.Penjualan.resources
+D:\SEMESTER 4\PERANCANGAN BASIS DATA\Praktikum Modul 4\Visual Studio\AplikasiResto1460\AplikasiResto1460\obj\Debug\net6.0-windows\AplikasiResto1460.vbproj.GenerateResource.cache
+D:\SEMESTER 4\PERANCANGAN BASIS DATA\Praktikum Modul 4\Visual Studio\AplikasiResto1460\AplikasiResto1460\obj\Debug\net6.0-windows\AplikasiResto1460.GeneratedMSBuildEditorConfig.editorconfig
+D:\SEMESTER 4\PERANCANGAN BASIS DATA\Praktikum Modul 4\Visual Studio\AplikasiResto1460\AplikasiResto1460\obj\Debug\net6.0-windows\AplikasiResto1460.AssemblyInfoInputs.cache
+D:\SEMESTER 4\PERANCANGAN BASIS DATA\Praktikum Modul 4\Visual Studio\AplikasiResto1460\AplikasiResto1460\obj\Debug\net6.0-windows\AplikasiResto1460.AssemblyInfo.vb
+D:\SEMESTER 4\PERANCANGAN BASIS DATA\Praktikum Modul 4\Visual Studio\AplikasiResto1460\AplikasiResto1460\obj\Debug\net6.0-windows\AplikasiResto1460.vbproj.CoreCompileInputs.cache
+D:\SEMESTER 4\PERANCANGAN BASIS DATA\Praktikum Modul 4\Visual Studio\AplikasiResto1460\AplikasiResto1460\bin\Debug\net6.0-windows\AplikasiResto1460.exe
+D:\SEMESTER 4\PERANCANGAN BASIS DATA\Praktikum Modul 4\Visual Studio\AplikasiResto1460\AplikasiResto1460\bin\Debug\net6.0-windows\AplikasiResto1460.deps.json
+D:\SEMESTER 4\PERANCANGAN BASIS DATA\Praktikum Modul 4\Visual Studio\AplikasiResto1460\AplikasiResto1460\bin\Debug\net6.0-windows\AplikasiResto1460.runtimeconfig.json
+D:\SEMESTER 4\PERANCANGAN BASIS DATA\Praktikum Modul 4\Visual Studio\AplikasiResto1460\AplikasiResto1460\bin\Debug\net6.0-windows\AplikasiResto1460.dll
+D:\SEMESTER 4\PERANCANGAN BASIS DATA\Praktikum Modul 4\Visual Studio\AplikasiResto1460\AplikasiResto1460\bin\Debug\net6.0-windows\AplikasiResto1460.pdb
+D:\SEMESTER 4\PERANCANGAN BASIS DATA\Praktikum Modul 4\Visual Studio\AplikasiResto1460\AplikasiResto1460\obj\Debug\net6.0-windows\AplikasiResto1460.dll
+D:\SEMESTER 4\PERANCANGAN BASIS DATA\Praktikum Modul 4\Visual Studio\AplikasiResto1460\AplikasiResto1460\obj\Debug\net6.0-windows\refint\AplikasiResto1460.dll
+D:\SEMESTER 4\PERANCANGAN BASIS DATA\Praktikum Modul 4\Visual Studio\AplikasiResto1460\AplikasiResto1460\obj\Debug\net6.0-windows\AplikasiResto1460.pdb
+D:\SEMESTER 4\PERANCANGAN BASIS DATA\Praktikum Modul 4\Visual Studio\AplikasiResto1460\AplikasiResto1460\obj\Debug\net6.0-windows\AplikasiResto1460.genruntimeconfig.cache
+D:\SEMESTER 4\PERANCANGAN BASIS DATA\Praktikum Modul 4\Visual Studio\AplikasiResto1460\AplikasiResto1460\obj\Debug\net6.0-windows\ref\AplikasiResto1460.dll
+C:\Users\firda\Downloads\AplikasiResto1460\AplikasiResto1460\bin\Debug\net6.0-windows\AplikasiResto1460.exe
+C:\Users\firda\Downloads\AplikasiResto1460\AplikasiResto1460\bin\Debug\net6.0-windows\AplikasiResto1460.deps.json
+C:\Users\firda\Downloads\AplikasiResto1460\AplikasiResto1460\bin\Debug\net6.0-windows\AplikasiResto1460.runtimeconfig.json
+C:\Users\firda\Downloads\AplikasiResto1460\AplikasiResto1460\bin\Debug\net6.0-windows\AplikasiResto1460.dll
+C:\Users\firda\Downloads\AplikasiResto1460\AplikasiResto1460\bin\Debug\net6.0-windows\AplikasiResto1460.pdb
+C:\Users\firda\Downloads\AplikasiResto1460\AplikasiResto1460\obj\Debug\net6.0-windows\AplikasiResto1460.vbproj.AssemblyReference.cache
+C:\Users\firda\Downloads\AplikasiResto1460\AplikasiResto1460\obj\Debug\net6.0-windows\AplikasiResto1460.CariMenu.resources
+C:\Users\firda\Downloads\AplikasiResto1460\AplikasiResto1460\obj\Debug\net6.0-windows\AplikasiResto1460.Kasir.resources
+C:\Users\firda\Downloads\AplikasiResto1460\AplikasiResto1460\obj\Debug\net6.0-windows\AplikasiResto1460.Kategori.resources
+C:\Users\firda\Downloads\AplikasiResto1460\AplikasiResto1460\obj\Debug\net6.0-windows\AplikasiResto1460.Login.resources
+C:\Users\firda\Downloads\AplikasiResto1460\AplikasiResto1460\obj\Debug\net6.0-windows\AplikasiResto1460.Menu.resources
+C:\Users\firda\Downloads\AplikasiResto1460\AplikasiResto1460\obj\Debug\net6.0-windows\AplikasiResto1460.Penjualan.resources
+C:\Users\firda\Downloads\AplikasiResto1460\AplikasiResto1460\obj\Debug\net6.0-windows\AplikasiResto1460.Resources.resources
+C:\Users\firda\Downloads\AplikasiResto1460\AplikasiResto1460\obj\Debug\net6.0-windows\AplikasiResto1460.vbproj.GenerateResource.cache
+C:\Users\firda\Downloads\AplikasiResto1460\AplikasiResto1460\obj\Debug\net6.0-windows\AplikasiResto1460.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\firda\Downloads\AplikasiResto1460\AplikasiResto1460\obj\Debug\net6.0-windows\AplikasiResto1460.AssemblyInfoInputs.cache
+C:\Users\firda\Downloads\AplikasiResto1460\AplikasiResto1460\obj\Debug\net6.0-windows\AplikasiResto1460.AssemblyInfo.vb
+C:\Users\firda\Downloads\AplikasiResto1460\AplikasiResto1460\obj\Debug\net6.0-windows\AplikasiResto1460.vbproj.CoreCompileInputs.cache
+C:\Users\firda\Downloads\AplikasiResto1460\AplikasiResto1460\obj\Debug\net6.0-windows\AplikasiResto1460.dll
+C:\Users\firda\Downloads\AplikasiResto1460\AplikasiResto1460\obj\Debug\net6.0-windows\refint\AplikasiResto1460.dll
+C:\Users\firda\Downloads\AplikasiResto1460\AplikasiResto1460\obj\Debug\net6.0-windows\AplikasiResto1460.pdb
+C:\Users\firda\Downloads\AplikasiResto1460\AplikasiResto1460\obj\Debug\net6.0-windows\AplikasiResto1460.genruntimeconfig.cache
+C:\Users\firda\Downloads\AplikasiResto1460\AplikasiResto1460\obj\Debug\net6.0-windows\ref\AplikasiResto1460.dll
+C:\Users\firda\Downloads\AplikasiResto1460\AplikasiResto1460\AplikasiResto1460\obj\Debug\net6.0-windows\AplikasiResto1460.vbproj.AssemblyReference.cache
+C:\Users\firda\Downloads\AplikasiResto1460\AplikasiResto1460\AplikasiResto1460\obj\Debug\net6.0-windows\AplikasiResto1460.dll
+C:\Users\firda\Downloads\AplikasiResto1460\AplikasiResto1460\AplikasiResto1460\obj\Debug\net6.0-windows\refint\AplikasiResto1460.dll
+C:\Users\firda\Downloads\AplikasiResto1460\AplikasiResto1460\AplikasiResto1460\obj\Debug\net6.0-windows\AplikasiResto1460.pdb
+C:\Users\firda\Downloads\AplikasiResto1460\AplikasiResto1460\AplikasiResto1460\bin\Debug\net6.0-windows\AplikasiResto1460.exe
+C:\Users\firda\Downloads\AplikasiResto1460\AplikasiResto1460\AplikasiResto1460\bin\Debug\net6.0-windows\AplikasiResto1460.deps.json
+C:\Users\firda\Downloads\AplikasiResto1460\AplikasiResto1460\AplikasiResto1460\bin\Debug\net6.0-windows\AplikasiResto1460.runtimeconfig.json
+C:\Users\firda\Downloads\AplikasiResto1460\AplikasiResto1460\AplikasiResto1460\bin\Debug\net6.0-windows\AplikasiResto1460.dll
+C:\Users\firda\Downloads\AplikasiResto1460\AplikasiResto1460\AplikasiResto1460\bin\Debug\net6.0-windows\AplikasiResto1460.pdb
+C:\Users\firda\Downloads\AplikasiResto1460\AplikasiResto1460\AplikasiResto1460\obj\Debug\net6.0-windows\AplikasiResto1460.CariMenu.resources
+C:\Users\firda\Downloads\AplikasiResto1460\AplikasiResto1460\AplikasiResto1460\obj\Debug\net6.0-windows\AplikasiResto1460.Kasir.resources
+C:\Users\firda\Downloads\AplikasiResto1460\AplikasiResto1460\AplikasiResto1460\obj\Debug\net6.0-windows\AplikasiResto1460.Kategori.resources
+C:\Users\firda\Downloads\AplikasiResto1460\AplikasiResto1460\AplikasiResto1460\obj\Debug\net6.0-windows\AplikasiResto1460.Login.resources
+C:\Users\firda\Downloads\AplikasiResto1460\AplikasiResto1460\AplikasiResto1460\obj\Debug\net6.0-windows\AplikasiResto1460.Menu.resources
+C:\Users\firda\Downloads\AplikasiResto1460\AplikasiResto1460\AplikasiResto1460\obj\Debug\net6.0-windows\AplikasiResto1460.Penjualan.resources
+C:\Users\firda\Downloads\AplikasiResto1460\AplikasiResto1460\AplikasiResto1460\obj\Debug\net6.0-windows\AplikasiResto1460.Resources.resources
+C:\Users\firda\Downloads\AplikasiResto1460\AplikasiResto1460\AplikasiResto1460\obj\Debug\net6.0-windows\AplikasiResto1460.vbproj.GenerateResource.cache
+C:\Users\firda\Downloads\AplikasiResto1460\AplikasiResto1460\AplikasiResto1460\obj\Debug\net6.0-windows\AplikasiResto1460.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\firda\Downloads\AplikasiResto1460\AplikasiResto1460\AplikasiResto1460\obj\Debug\net6.0-windows\AplikasiResto1460.AssemblyInfoInputs.cache
+C:\Users\firda\Downloads\AplikasiResto1460\AplikasiResto1460\AplikasiResto1460\obj\Debug\net6.0-windows\AplikasiResto1460.AssemblyInfo.vb
+C:\Users\firda\Downloads\AplikasiResto1460\AplikasiResto1460\AplikasiResto1460\obj\Debug\net6.0-windows\AplikasiResto1460.vbproj.CoreCompileInputs.cache
+C:\Users\firda\Downloads\AplikasiResto1460\AplikasiResto1460\AplikasiResto1460\obj\Debug\net6.0-windows\AplikasiResto1460.genruntimeconfig.cache
+C:\Users\firda\Downloads\AplikasiResto1460\AplikasiResto1460\AplikasiResto1460\obj\Debug\net6.0-windows\ref\AplikasiResto1460.dll
+C:\Users\firda\Downloads\AplikasiResto1460\AplikasiResto1460\AplikasiResto1460\bin\Debug\net6.0-windows\System.Data.Odbc.dll
+C:\Users\firda\Downloads\AplikasiResto1460\AplikasiResto1460\AplikasiResto1460\bin\Debug\net6.0-windows\runtimes\freebsd\lib\net6.0\System.Data.Odbc.dll
+C:\Users\firda\Downloads\AplikasiResto1460\AplikasiResto1460\AplikasiResto1460\bin\Debug\net6.0-windows\runtimes\illumos\lib\net6.0\System.Data.Odbc.dll
+C:\Users\firda\Downloads\AplikasiResto1460\AplikasiResto1460\AplikasiResto1460\bin\Debug\net6.0-windows\runtimes\ios\lib\net6.0\System.Data.Odbc.dll
+C:\Users\firda\Downloads\AplikasiResto1460\AplikasiResto1460\AplikasiResto1460\bin\Debug\net6.0-windows\runtimes\linux\lib\net6.0\System.Data.Odbc.dll
+C:\Users\firda\Downloads\AplikasiResto1460\AplikasiResto1460\AplikasiResto1460\bin\Debug\net6.0-windows\runtimes\osx\lib\net6.0\System.Data.Odbc.dll
+C:\Users\firda\Downloads\AplikasiResto1460\AplikasiResto1460\AplikasiResto1460\bin\Debug\net6.0-windows\runtimes\solaris\lib\net6.0\System.Data.Odbc.dll
+C:\Users\firda\Downloads\AplikasiResto1460\AplikasiResto1460\AplikasiResto1460\bin\Debug\net6.0-windows\runtimes\tvos\lib\net6.0\System.Data.Odbc.dll
+C:\Users\firda\Downloads\AplikasiResto1460\AplikasiResto1460\AplikasiResto1460\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Data.Odbc.dll
+C:\Users\firda\Downloads\AplikasiResto1460\AplikasiResto1460\AplikasiResto1460\obj\Debug\net6.0-windows\AplikasiResto1460.vbproj.CopyComplete
