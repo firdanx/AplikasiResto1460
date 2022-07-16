@@ -5,6 +5,7 @@
     Public KontrolMenu As New ClsCtlMenu
     Public EntitasKasir As New ClsEntKasir
     Public KontrolKasir As New ClsCtlKasir
-
-
+    Public EntitasPenjualan As New ClsEntPenjualan
+    Public KontrolPenjualan As New ClsCtlPenjualan
+    Public EntitasDetailJual As New ClsEntDetailJual
 End Module

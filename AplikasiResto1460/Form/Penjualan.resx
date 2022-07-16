@@ -61,7 +61,7 @@
   <data name="btnSimpan.BackgroundImage" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
     <value>
         iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6
-        JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAACXBIWXMAAA6+AAAOvgHqQrHAAAAAB3RJ
+        JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAACXBIWXMAAA68AAAOvAGVvHJJAAAAB3RJ
         TUUH5AMDDBgOeK1qMAAAABl0RVh0U29mdHdhcmUAd3d3Lmlua3NjYXBlLm9yZ5vuPBoAAAFHSURBVFhH
         7ZdBasJAGIWlaFdewgsoeAEXBdd10YUHUEpvUkqO0W4KgtCVK9fFhXcQBDd23VKcvr/zJM3EJONMplHw
         gwdh/szLtxgjqSmlIuQL+cuyRnDd10tWjLhN9k31kvpGJkiDoyQYmA8XyhTYE3GUhEOTEAI75JbjGD1L
@@ -74,7 +74,7 @@
   <data name="btnHapus.BackgroundImage" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
     <value>
         iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6
-        JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAACXBIWXMAAA7AAAAOwAFq1okJAAAAB3RJ
+        JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAACXBIWXMAAA69AAAOvQFH+5CtAAAAB3RJ
         TUUH5AMDDBUIJGCxSAAAABl0RVh0U29mdHdhcmUAd3d3Lmlua3NjYXBlLm9yZ5vuPBoAAAFjSURBVFhH
         7Ze/LwRREID3RCQqucSPRuMv0NBphIIoqIRS5DrKI/4GLRUtCZ1EqVAo3B+gRaMhEie5CIf1zXuTd8Ku
         27PvEpH3JV8yszczb5K9u+xGWYnjeAwr+IJpPOMZjmibHxg4iFXcxSmcTHEa9/AOe7U9Pwxbxmss6KVU
@@ -88,7 +88,7 @@
   <data name="btnTambah.BackgroundImage" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
     <value>
         iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6
-        JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAACXBIWXMAAA7AAAAOwAFq1okJAAAAB3RJ
+        JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAACXBIWXMAAA69AAAOvQFH+5CtAAAAB3RJ
         TUUH5AMDDBIxNCSvhwAAABl0RVh0U29mdHdhcmUAd3d3Lmlua3NjYXBlLm9yZ5vuPBoAAADJSURBVFhH
         7ZdRCsIwEEQD8cStHsCqZ9MzFPyy2mPEGbI/CQo2uN2P7oOB0iHMfKTZNLSQUtpBF+glOkFRbH0QdoBq
         erH1QdgtZxZcxdYHYWPOLBjF1odhObPAC3gBL7CtAlPOLHiIvQws5GDh2c7j9f6DntA36H1aU4tZeyiy
@@ -96,4 +96,7 @@
         jAOMU5TDhxr4TuwFhPAG0FdNaxts+v8AAAAASUVORK5CYII=
 </value>
   </data>
+  <metadata name="TPTanggal.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>17, 17</value>
+  </metadata>
 </root>

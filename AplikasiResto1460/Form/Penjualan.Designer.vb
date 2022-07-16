@@ -22,6 +22,7 @@ Partial Class Penjualan
     'Do not modify it using the code editor.
     <System.Diagnostics.DebuggerStepThrough()> _
     Private Sub InitializeComponent()
+        Me.components = New System.ComponentModel.Container()
         Dim resources As System.ComponentModel.ComponentResourceManager = New System.ComponentModel.ComponentResourceManager(GetType(Penjualan))
         Me.Label1 = New System.Windows.Forms.Label()
         Me.lblIDJual = New System.Windows.Forms.Label()
@@ -34,6 +35,7 @@ Partial Class Penjualan
         Me.lblTotal = New System.Windows.Forms.Label()
         Me.Label5 = New System.Windows.Forms.Label()
         Me.GroupBox1 = New System.Windows.Forms.GroupBox()
+        Me.btnSimpan = New System.Windows.Forms.Button()
         Me.txtKembali = New System.Windows.Forms.TextBox()
         Me.txtBayar = New System.Windows.Forms.TextBox()
         Me.Label16 = New System.Windows.Forms.Label()
@@ -50,7 +52,7 @@ Partial Class Penjualan
         Me.Label7 = New System.Windows.Forms.Label()
         Me.Label6 = New System.Windows.Forms.Label()
         Me.btnCariMenu = New System.Windows.Forms.Button()
-        Me.btnSimpan = New System.Windows.Forms.Button()
+        Me.TPTanggal = New System.Windows.Forms.Timer(Me.components)
         Me.GroupBox1.SuspendLayout()
         Me.SuspendLayout()
         '
@@ -178,6 +180,19 @@ Partial Class Penjualan
         Me.GroupBox1.TabIndex = 18
         Me.GroupBox1.TabStop = False
         Me.GroupBox1.Text = "Inputkan Pesanan"
+        '
+        'btnSimpan
+        '
+        Me.btnSimpan.BackColor = System.Drawing.SystemColors.Highlight
+        Me.btnSimpan.BackgroundImage = CType(resources.GetObject("btnSimpan.BackgroundImage"), System.Drawing.Image)
+        Me.btnSimpan.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Center
+        Me.btnSimpan.FlatAppearance.BorderSize = 0
+        Me.btnSimpan.FlatStyle = System.Windows.Forms.FlatStyle.Flat
+        Me.btnSimpan.Location = New System.Drawing.Point(330, 249)
+        Me.btnSimpan.Name = "btnSimpan"
+        Me.btnSimpan.Size = New System.Drawing.Size(45, 43)
+        Me.btnSimpan.TabIndex = 35
+        Me.btnSimpan.UseVisualStyleBackColor = False
         '
         'txtKembali
         '
@@ -325,18 +340,9 @@ Partial Class Penjualan
         Me.btnCariMenu.Text = "Cari Menu"
         Me.btnCariMenu.UseVisualStyleBackColor = False
         '
-        'btnSimpan
+        'TPTanggal
         '
-        Me.btnSimpan.BackColor = System.Drawing.SystemColors.Highlight
-        Me.btnSimpan.BackgroundImage = CType(resources.GetObject("btnSimpan.BackgroundImage"), System.Drawing.Image)
-        Me.btnSimpan.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Center
-        Me.btnSimpan.FlatAppearance.BorderSize = 0
-        Me.btnSimpan.FlatStyle = System.Windows.Forms.FlatStyle.Flat
-        Me.btnSimpan.Location = New System.Drawing.Point(330, 249)
-        Me.btnSimpan.Name = "btnSimpan"
-        Me.btnSimpan.Size = New System.Drawing.Size(45, 43)
-        Me.btnSimpan.TabIndex = 35
-        Me.btnSimpan.UseVisualStyleBackColor = False
+        Me.TPTanggal.Enabled = True
         '
         'Penjualan
         '
@@ -393,4 +399,5 @@ Partial Class Penjualan
     Friend WithEvents Label16 As Label
     Friend WithEvents Label15 As Label
     Friend WithEvents btnSimpan As Button
+    Friend WithEvents TPTanggal As Timer
 End Class

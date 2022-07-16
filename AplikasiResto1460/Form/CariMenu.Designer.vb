@@ -53,7 +53,7 @@ Partial Class CariMenu
         Me.LVCariMenu.TabIndex = 0
         Me.LVCariMenu.UseCompatibleStateImageBehavior = False
         '
-        'Cari
+        'CariMenu
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(7.0!, 15.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
@@ -61,7 +61,7 @@ Partial Class CariMenu
         Me.Controls.Add(Me.LVCariMenu)
         Me.Controls.Add(Me.GroupBox1)
         Me.FormBorderStyle = System.Windows.Forms.FormBorderStyle.SizableToolWindow
-        Me.Name = "Cari"
+        Me.Name = "CariMenu"
         Me.Text = "Form Cari Menu"
         Me.GroupBox1.ResumeLayout(False)
         Me.GroupBox1.PerformLayout()

@@ -15,15 +15,31 @@ Public Class ClsCtlMenu : Implements InfProsess
         Return cek
     End Function
     Public Function InsertData(Ob As Object) As OdbcCommand Implements InfProsess.InsertData
-        Throw New NotImplementedException()
+        Dim data As New ClsEntMenu
+        data = Ob
+        CMD = New OdbcCommand("insert into menu values('" & data.IdMenu & "','" & data.IdKategori & "','" & data.NamaMenu & "'," & data.HargaMenu & ")", BUKAKONEKSI)
+        CMD.CommandType = CommandType.Text
+        CMD.ExecuteNonQuery()
+        CMD = New OdbcCommand("", TUTUPKONEKSI)
+        Return CMD
     End Function
 
     Public Function UpdateData(Ob As Object) As OdbcCommand Implements InfProsess.UpdateData
-        Throw New NotImplementedException()
+        Dim data As New ClsEntMenu
+        data = Ob
+        CMD = New OdbcCommand("update menu set nama_menu ='" & data.NamaMenu & "', harga_menu ='" & data.HargaMenu & "' where id_menu='" & data.IdMenu & "'", BUKAKONEKSI)
+        CMD.CommandType = CommandType.Text
+        CMD.ExecuteNonQuery()
+        CMD = New OdbcCommand("", TUTUPKONEKSI)
+        Return CMD
     End Function
 
     Public Function deleteData(kunci As String) As OdbcCommand Implements InfProsess.deleteData
-        Throw New NotImplementedException()
+        CMD = New OdbcCommand("delete from menu " & "where id_menu='" & kunci & "'", BUKAKONEKSI)
+        CMD.CommandType = CommandType.Text
+        CMD.ExecuteNonQuery()
+        CMD = New OdbcCommand("", TUTUPKONEKSI)
+        Return CMD
     End Function
 
     Public Function tampilData() As DataView Implements InfProsess.tampilData
@@ -40,6 +56,29 @@ Public Class ClsCtlMenu : Implements InfProsess
     End Function
 
     Public Function cariData(kunci As String) As DataView Implements InfProsess.cariData
-        Throw New NotImplementedException()
+        Try
+            DTA = New OdbcDataAdapter("Select * from Menu where nama_menu " & "like '%" & kunci & "%'", BUKAKONEKSI)
+            DTS = New DataSet()
+            DTA.Fill(DTS, "Cari_Menu")
+            Dim grid As New DataView(DTS.Tables("Cari_Menu"))
+            Return grid
+        Catch ex As Exception
+            Throw New Exception(ex.Message)
+        End Try
+    End Function
+
+    Function kodebaru() As String
+        Dim baru As String
+        Dim kodeakhir As Integer
+        Try
+            DTA = New OdbcDataAdapter("select max(right(id_menu,4))from menu", BUKAKONEKSI)
+            DTS = New DataSet()
+            DTA.Fill(DTS, "max_kode")
+            kodeakhir = Val(DTS.Tables("max_kode").Rows(0).Item(0))
+            baru = "M" & Strings.Right("00" & kodeakhir + 1, 4)
+            Return baru
+        Catch ex As Exception
+            Throw New Exception(ex.Message)
+        End Try
     End Function
 End Class

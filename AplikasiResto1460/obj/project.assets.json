@@ -215,11 +215,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\firda\\Downloads\\AplikasiResto1460\\AplikasiResto1460\\AplikasiResto1460\\AplikasiResto1460.vbproj",
+      "projectUniqueName": "C:\\src\\AplikasiResto1460-main\\AplikasiResto1460\\AplikasiResto1460.vbproj",
       "projectName": "AplikasiResto1460",
-      "projectPath": "C:\\Users\\firda\\Downloads\\AplikasiResto1460\\AplikasiResto1460\\AplikasiResto1460\\AplikasiResto1460.vbproj",
+      "projectPath": "C:\\src\\AplikasiResto1460-main\\AplikasiResto1460\\AplikasiResto1460.vbproj",
       "packagesPath": "C:\\Users\\firda\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\firda\\Downloads\\AplikasiResto1460\\AplikasiResto1460\\AplikasiResto1460\\obj\\",
+      "outputPath": "C:\\src\\AplikasiResto1460-main\\AplikasiResto1460\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
