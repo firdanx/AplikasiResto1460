@@ -40,6 +40,7 @@
         cmbLevel.Items.Add("AK")
         cmbLevel.Items.Add("SK")
         txtIDKasir.Enabled = False
+        MdiParent = FormUtama
     End Sub
     Private Sub TampilCari(kunci As String)
         DTGrid = KontrolKasir.cariData(kunci).ToTable

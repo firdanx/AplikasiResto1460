@@ -110,3 +110,4 @@ C:\src\AplikasiResto1460-main\AplikasiResto1460\obj\Debug\net6.0-windows\refint\
 C:\src\AplikasiResto1460-main\AplikasiResto1460\obj\Debug\net6.0-windows\AplikasiResto1460.pdb
 C:\src\AplikasiResto1460-main\AplikasiResto1460\obj\Debug\net6.0-windows\AplikasiResto1460.genruntimeconfig.cache
 C:\src\AplikasiResto1460-main\AplikasiResto1460\obj\Debug\net6.0-windows\ref\AplikasiResto1460.dll
+C:\src\AplikasiResto1460-main\AplikasiResto1460\obj\Debug\net6.0-windows\AplikasiResto1460.FormUtama.resources

@@ -36,6 +36,7 @@
 
     Private Sub Kategori_Load(sender As Object, e As EventArgs) Handles MyBase.Load
         RefreshGrid()
+        MdiParent = FormUtama
     End Sub
     Private Sub TampilCari(kunci As String)
         DTGrid = KontrolKategori.cariData(kunci).ToTable

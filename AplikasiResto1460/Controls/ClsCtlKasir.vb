@@ -82,4 +82,16 @@ Public Class ClsCtlKasir : Implements InfProsess
         End Try
         Return cek
     End Function
+
+    Public Function loginKasir(username As String) As DataView
+        Try
+            DTA = New OdbcDataAdapter("Select * from kasir where userid ='" & username & "'", BUKAKONEKSI)
+            DTS = New DataSet()
+            DTA.Fill(DTS, "Cari_Kasir")
+            Dim grid As New DataView(DTS.Tables("Cari_Kasir"))
+            Return grid
+        Catch ex As Exception
+            Throw New Exception(ex.Message)
+        End Try
+    End Function
 End Class

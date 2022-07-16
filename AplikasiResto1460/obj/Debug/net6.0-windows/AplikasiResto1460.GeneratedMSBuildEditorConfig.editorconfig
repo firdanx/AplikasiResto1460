@@ -1,6 +1,6 @@
 is_global = true
-build_property.ApplicationManifest = 
-build_property.StartupObject = AplikasiResto1460.Penjualan
+build_property.ApplicationManifest = My Project\app.manifest
+build_property.StartupObject = AplikasiResto1460.Login
 build_property.ApplicationDefaultFont = 
 build_property.ApplicationHighDpiMode = 
 build_property.ApplicationUseCompatibleTextRendering = 

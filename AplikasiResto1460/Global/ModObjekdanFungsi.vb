@@ -8,4 +8,6 @@
     Public EntitasPenjualan As New ClsEntPenjualan
     Public KontrolPenjualan As New ClsCtlPenjualan
     Public EntitasDetailJual As New ClsEntDetailJual
+    Public KODELOG As String
+    Public NAMALOG As String
 End Module

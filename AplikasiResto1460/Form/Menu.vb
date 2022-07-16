@@ -42,6 +42,7 @@ Public Class Menu
         TampilKategori()
         txtIDMenu.Enabled = False
         txtIDMenu.Enabled = False
+        MdiParent = FormUtama
     End Sub
     Private Sub TampilCari(kunci As String)
         DTGrid = KontrolMenu.cariData(kunci).ToTable

@@ -4,6 +4,9 @@
     <Compile Update="Form\CariMenu.vb">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Update="Form\FormUtama.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Update="Form\Penjualan.vb">
       <SubType>Form</SubType>
     </Compile>

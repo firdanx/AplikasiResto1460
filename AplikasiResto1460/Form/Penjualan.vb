@@ -24,6 +24,9 @@
     Private Sub Penjualan_Load(sender As Object, e As EventArgs) Handles MyBase.Load
         Call Buattabel()
         lblIDJual.Text = KontrolPenjualan.kodeBaru()
+        MdiParent = FormUtama
+        lblIDKasir.Text = KODELOG
+        lblNamaKasir.Text = NAMALOG
     End Sub
 
     Private Sub btnCariMenu_Click(sender As Object, e As EventArgs) Handles btnCariMenu.Click
